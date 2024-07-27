@@ -1,0 +1,6 @@
+@HPro.Api_HostAddress = http://localhost:5093
+
+GET {{HPro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
